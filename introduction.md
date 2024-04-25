@@ -24,4 +24,18 @@
     - Đưa train dataset vào thuật toán học có giám sát (hàm số đầu vào là tập dữ liệu và đầu ra là hàm số khác thể hiện mô hình đã học được)
     - Cuối cùng, đưa dữ liệu chưa nhìn thấy vào mô hình đã học được để dự đoán các label tương ứng
     <img src="/images/hoc-co-giam-sat.png" alt="image" width="500"/>
+- Các dạng của học có giám sát:
+    - Hồi quy (Regression)
+        - Hàm mất mát: L1 loss function, L2 loss function
+    - Phân loại (Classification)
+        - Hàm mất mát: Entropy chéo (cross-entropy)
+    - ...
+
+> Bài toán trả lời cho câu hỏi "bao nhiêu, bao lâu, bao xa, ...?" là <b>Hồi quy</b>
+> Bài toán trả lời cho câu hỏi "đây có phải là ...?" thì khả năng cao là <b>Phân loại</b>
+
+<!-- TITLE 2 >-----  --> <h3>2.2 Unsupervised Learning</h3>
+<!-- TITLE 2 >-----  --> <h3>Học tăng cường (Reinforcement learning)</h3>
+...
+<a href="https://d2l.aivivn.com/">Reference</a>
 
