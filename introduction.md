@@ -35,7 +35,7 @@
 > Bài toán trả lời cho câu hỏi "đây có phải là ...?" thì khả năng cao là <b>Phân loại</b>
 
 <!-- TITLE 2 >-----  --> <h3>2.2 Unsupervised Learning</h3>
-<!-- TITLE 2 >-----  --> <h3>Học tăng cường (Reinforcement learning)</h3>
+<!-- TITLE 2 >-----  --> <h3>2.3 Học tăng cường (Reinforcement learning)</h3>
 ...
 <a href="https://d2l.aivivn.com/">Reference</a>
 
